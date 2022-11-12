@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://costikid.github.io/ritoambrosiano/sitemap.xml
